@@ -37,10 +37,6 @@ From sleek UIs to scalable APIs, I build digital products that feel fast, intuit
 
 <div align="center">
 
-<a href="https://github.com/govardhanprabhavathi">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/govardhan-yasani">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
