@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:39ff14&height=220&section=header&text=Govardhan%20Yasani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer%20|%20AI%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+<img src="HeroGif.gif" alt="Portfolio Hero Banner" width="100%" />
 
 # <img src="https://user-images.githubusercontent.com/74038190/216656995-50c5f7d2-0e67-4e5d-b0d9-7d3c6f6f6d2b.gif" width="35" /> Hi, I'm **Govardhan Yasani**
 
-### Full Stack Developer | UI/UX Designer | AI Enthusiast
+### Software Engineer and UI UX Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Experiences;Creating+AI+Powered+Solutions;Designing+Clean+%26+Intuitive+Interfaces;Always+Learning+Something+New" />
 
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+I'm a Software Engineer and UI UX Developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
 From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
 
 - 🌍 Based in **Bangalore, India**
@@ -121,8 +121,8 @@ class GovardhanYasani:
     
     def __init__(self):
         self.role = [
-            "Full Stack Developer",
-            "UI/UX Designer",
+            "Software Engineer",
+            "UI/UX Developer",
             "AI Enthusiast"
         ]
         
@@ -142,14 +142,3 @@ class GovardhanYasani:
     
     def build(self):
         return "Creating impactful digital experiences 🚀"
-```
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=govardhanprabhavathi&label=Profile%20Views&color=39ff14&style=for-the-badge" />
-
-### ⭐️ From [Govardhan Yasani](https://github.com/govardhanprabhavathi)
-
-</div>
