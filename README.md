@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="HeroGif.gif" alt="Portfolio Hero Banner" width="100%" />
+<video src="HeroGif.mp4" autoplay loop muted width="100%"></video>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216656995-50c5f7d2-0e67-4e5d-b0d9-7d3c6f6f6d2b.gif" width="35" /> Hi, I'm **Govardhan Yasani**
 
