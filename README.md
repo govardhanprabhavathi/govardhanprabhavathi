@@ -4,68 +4,28 @@
 </picture>
 
 <p align="left">
-  <a href="https://github.com/govardhanprabhavathi"><b>GitHub</b></a> · 
-  <a href="https://govardhanyasani.vercel.app"><b>Portfolio Website</b></a> · 
-  <a href="https://www.linkedin.com/in/govardhan-yasani"><b>LinkedIn</b></a> · 
-  <a href="https://x.com/GovardhanGoru"><b>X (Twitter)</b></a> · 
-  <a href="mailto:govardhanprabhavathi@gmail.com"><b>Email</b></a>
+  <a href="https://github.com/govardhanprabhavathi">GitHub</a> · 
+  <a href="https://govardhanyasani.vercel.app">Website</a> · 
+  <a href="https://www.linkedin.com/in/govardhan-yasani">LinkedIn</a> · 
+  <a href="https://x.com/GovardhanGoru">X</a>
 </p>
 
-### 👨‍💻 About Me
-
-I'm an **AI & Machine Learning Undergraduate** and **Software Engineer** based in **Bengaluru, India**. I love turning ideas into fast, intuitive, and visually engaging digital experiences — bridging creative UI engineering with applied AI/ML systems.
-
-- 🔭 **Focus Areas**: Computer Vision, Applied AI, and Modern Web Systems
-- 💡 **Philosophy**: Clean architecture, interactive UX, and building useful tools
-- 🤝 **Open for**: Collaborations, Internships, Research, and Freelance Projects
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/govardhanprabhavathi/aircanvas">🎨 AirCanvas</a></h3>
-      <p>Interactive virtual canvas powered by Computer Vision and real-time hand-gesture tracking for drawing in the air.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/govardhanprabhavathi/cybershield">🛡️ CyberShield</a></h3>
-      <p>Automated security framework and threat monitoring utility designed for vulnerability detection and incident logging.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Security-238636?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/govardhanprabhavathi/friday">🤖 Friday</a></h3>
-      <p>Voice-assisted intelligent desktop AI assistant that automates routine workflows, web lookups, and system tasks.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI_Assistant-10B981?style=flat-square&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/govardhanprabhavathi/pixcrossstudio">🌐 PixCross Studio</a></h3>
-      <p>A scroll-driven interactive personal portfolio website showcasing modern frontend aesthetics and animations.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Skills
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/govardhanprabhavathi/govardhanprabhavathi/main/assets/story-projects-light.svg" />
+  <img src="https://raw.githubusercontent.com/govardhanprabhavathi/govardhanprabhavathi/main/assets/story-projects-dark.svg" width="100%" alt="Featured Projects: aircanvas, cybershield, friday, pixcrossstudio" />
+</picture>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,ts,js,react,nextjs,html,css,mongodb,git,github" />
+  <a href="https://github.com/govardhanprabhavathi/aircanvas">aircanvas</a> · 
+  <a href="https://github.com/govardhanprabhavathi/cybershield">cybershield</a> · 
+  <a href="https://github.com/govardhanprabhavathi/friday">friday</a> · 
+  <a href="https://github.com/govardhanprabhavathi/pixcrossstudio">pixcrossstudio</a>
 </p>
 
----
-
-### 📊 Activity & Visual Story
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/govardhanprabhavathi/govardhanprabhavathi/main/assets/story-stack-light.svg" />
+  <img src="https://raw.githubusercontent.com/govardhanprabhavathi/govardhanprabhavathi/main/assets/story-stack-dark.svg" width="100%" alt="Technologies I work with" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/govardhanprabhavathi/govardhanprabhavathi/main/assets/story-life-light.svg" />
@@ -92,4 +52,4 @@ I'm an **AI & Machine Learning Undergraduate** and **Software Engineer** based i
   <img src="https://raw.githubusercontent.com/govardhanprabhavathi/govardhanprabhavathi/main/assets/story-radar-dark.svg" width="100%" alt="How I work: commits, pull requests, reviews, issues and new repositories" />
 </picture>
 
-<sub>Designed & Built by Govardhan Yasani · Hosted on GitHub</sub>
+<sub>Data Story · charts from my public GitHub activity</sub>

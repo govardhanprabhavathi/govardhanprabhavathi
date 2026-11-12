@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="216" viewBox="0 0 880 216" role="img" aria-label="Technologies">
+  <style>
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <text x="0" y="26" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing=".14em" fill="#3fb950">TOOLKIT</text>
+  <text x="0" y="58" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="26" font-weight="700" letter-spacing="-.02em" fill="#f0f6fc">Technologies I work with</text>
+  <text x="0" y="84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="14" fill="#8d96a0">Languages, libraries, and frameworks across AI/ML and frontend systems.</text>
+  <line x1="0" y1="102" x2="880" y2="102" stroke="#262c36"/>
+
+  <!-- Row 1: AI / ML -->
+  <text x="0" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">AI &amp; Vision</text>
+  <text x="140" y="132" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8d96a0">TensorFlow · PyTorch · OpenCV · Computer Vision · Scikit-Learn</text>
+  <line x1="0" y1="146" x2="880" y2="146" stroke="#161b22"/>
+
+  <!-- Row 2: Languages -->
+  <text x="0" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">Languages</text>
+  <text x="140" y="166" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8d96a0">Python · TypeScript · JavaScript · HTML5 · CSS3 · Java · TeX</text>
+  <line x1="0" y1="180" x2="880" y2="180" stroke="#161b22"/>
+
+  <!-- Row 3: Web & Tools -->
+  <text x="0" y="200" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">Web &amp; Tools</text>
+  <text x="140" y="200" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8d96a0">React · Next.js · Node.js · MongoDB · Git · GitHub</text>
+</svg>

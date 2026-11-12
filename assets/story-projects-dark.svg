@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="236" viewBox="0 0 880 236" role="img" aria-label="Featured Projects">
+  <style>
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <text x="0" y="26" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing=".14em" fill="#3fb950">FEATURED WORK</text>
+  <text x="0" y="58" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="26" font-weight="700" letter-spacing="-.02em" fill="#f0f6fc">Things I've built</text>
+  <text x="0" y="84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="14" fill="#8d96a0">Selected public repositories in computer vision, security, and web.</text>
+  <line x1="0" y1="102" x2="880" y2="102" stroke="#262c36"/>
+
+  <!-- Project 1 -->
+  <text x="0" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">aircanvas</text>
+  <text x="130" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="14" fill="#8d96a0">Virtual canvas with real-time hand gesture tracking</text>
+  <text x="880" y="132" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#3fb950">TypeScript · OpenCV</text>
+  <line x1="0" y1="146" x2="880" y2="146" stroke="#161b22"/>
+
+  <!-- Project 2 -->
+  <text x="0" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">cybershield</text>
+  <text x="130" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="14" fill="#8d96a0">Automated security auditing &amp; vulnerability scanner</text>
+  <text x="880" y="166" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#3fb950">Python · Security</text>
+  <line x1="0" y1="180" x2="880" y2="180" stroke="#161b22"/>
+
+  <!-- Project 3 -->
+  <text x="0" y="200" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">friday</text>
+  <text x="130" y="200" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="14" fill="#8d96a0">Desktop voice assistant for workflow automation</text>
+  <text x="880" y="200" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#3fb950">Python · AI</text>
+  <line x1="0" y1="214" x2="880" y2="214" stroke="#161b22"/>
+
+  <!-- Project 4 -->
+  <text x="0" y="234" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">pixcrossstudio</text>
+  <text x="130" y="234" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif" font-size="14" fill="#8d96a0">Scroll-driven interactive portfolio website</text>
+  <text x="880" y="234" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#3fb950">Frontend · Animation</text>
+</svg>
